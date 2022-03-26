@@ -1,1 +1,2 @@
-# lechocolatchaud.github.io
+# Website
+A simple website
